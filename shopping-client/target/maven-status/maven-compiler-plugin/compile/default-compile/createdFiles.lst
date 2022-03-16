@@ -1,0 +1,10 @@
+dto\ProductDTO.class
+exception\CategoryNotFoundException.class
+dto\ErrorDTO.class
+dto\UserDTO.class
+dto\CategoryDTO.class
+exception\ProductNotFoundException.class
+dto\ShopDTO.class
+dto\ShopReportDTO.class
+dto\ItemDTO.class
+exception\UserNotFoundException.class
